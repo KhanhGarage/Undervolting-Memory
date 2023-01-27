@@ -7,4 +7,6 @@
 
 ## Application
 
-1. **Random Number Generation**:  Yüksel, İsmail Emir, et al. "TuRaN: True Random Number Generation Using Supply Voltage Underscaling in SRAMs." arXiv preprint arXiv:2211.10894 (2022).
+0. B. Salami et al., "An Experimental Study of Reduced-Voltage Operation in Modern FPGAs for Neural Network Acceleration," 2020 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Valencia, Spain, 2020, pp. 138-149, doi: 10.1109/DSN48063.2020.00032.
+
+1. Yüksel, İsmail Emir, et al. "TuRaN: True Random Number Generation Using Supply Voltage Underscaling in SRAMs." arXiv preprint arXiv:2211.10894 (2022).
