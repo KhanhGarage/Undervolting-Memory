@@ -7,4 +7,4 @@
 
 ## Application
 
-1. Yüksel, İsmail Emir, et al. "TuRaN: True Random Number Generation Using Supply Voltage Underscaling in SRAMs." arXiv preprint arXiv:2211.10894 (2022).
+1. **Random Number Generation**:  Yüksel, İsmail Emir, et al. "TuRaN: True Random Number Generation Using Supply Voltage Underscaling in SRAMs." arXiv preprint arXiv:2211.10894 (2022).
