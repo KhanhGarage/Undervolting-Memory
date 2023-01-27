@@ -1,4 +1,4 @@
-# Undervolting-Memory
+# Undervolting Memory: A survey
 
 ## SRAM
 
