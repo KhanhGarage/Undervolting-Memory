@@ -6,6 +6,7 @@
 2. Mohammad, Baker, and Jacob Abraham. "A reduced voltage swing circuit using a single supply to enable lower voltage operation for SRAM-based memory." Microelectronics Journal 43.2 (2012): 110-118. [https://doi.org/10.1016/j.mejo.2011.11.006](https://doi.org/10.1016/j.mejo.2011.11.006)
 3. M. Matsumiya et al., "A 15 ns 16 Mb CMOS SRAM with reduced voltage amplitude data bus," 1992 IEEE International Solid-State Circuits Conference Digest of Technical Papers, San Francisco, CA, USA, 1992, pp. 214-215, doi: 10.1109/ISSCC.1992.200488. [https://ieeexplore.ieee.org/abstract/document/200488](https://ieeexplore.ieee.org/abstract/document/200488)
 4. M. Matsumiya et al., "A 150 ns 16-Mb CMOS SRAM with interdigitated bit-line architecture," in IEEE Journal of Solid-State Circuits, vol. 27, no. 11, pp. 1497-1503, Nov. 1992, doi: 10.1109/4.165328. [https://doi.org/10.1109/4.165328](https://doi.org/10.1109/4.165328)
+5. B. Salami, O. S. Unsal and A. C. Kestelman, "Evaluating Built-In ECC of FPGA On-Chip Memories for the Mitigation of Undervolting Faults," 2019 27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP), Pavia, Italy, 2019, pp. 242-246, doi: 10.1109/EMPDP.2019.8671543.
 
 ## Application
 
