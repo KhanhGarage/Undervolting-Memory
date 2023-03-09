@@ -23,3 +23,5 @@
 ## Near-Threshold Computing
 
 1. [http://altai.ece.umn.edu/varius/varius.html](http://altai.ece.umn.edu/varius/varius.html)
+2. Rangharajan Venkatesan, Amit Agarwal, Kaushik Roy, and Anand Raghunathan. 2011. MACACO: modeling and analysis of circuits for approximate computing. In Proceedings of the International Conference on Computer-Aided Design (ICCAD '11). IEEE Press, 667–673.
+ [https://dl.acm.org/doi/10.5555/2132325.2132474](https://dl.acm.org/doi/10.5555/2132325.2132474)
